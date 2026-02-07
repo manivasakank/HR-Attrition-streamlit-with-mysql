@@ -2,7 +2,7 @@
 ![hr1](https://github.com/user-attachments/assets/afd78536-d930-468f-b291-b5576b0a902b)
 ![hr2](https://github.com/user-attachments/assets/ad6c20e3-9041-4fc5-86b5-59deae9840bb)
 <img width="705" height="335" alt="hr3" src="https://github.com/user-attachments/assets/7ded71ac-6940-460a-ad6b-323536938b74" />
-"C:\Users\Acer\OneDrive\Videos\Screen Recordings\Screen Recording 2026-02-05 004504.mp4"
+
 
 import streamlit as st
 
